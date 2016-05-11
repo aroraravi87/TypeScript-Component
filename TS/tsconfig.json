@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ES3",
+		"module": "commonjs",
+		"sourceMap": true,
+		"allowJs":true,
+		"out": "JS/index.js",
+		"version": "0.1.0"
+	},
+	"files": [
+    ]
+}
