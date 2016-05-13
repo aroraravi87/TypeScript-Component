@@ -2,8 +2,8 @@ var Startup = (function () {
     function Startup() {
     }
     Startup.main = function () {
-        console.log('Hello World');
-        return 0;
+        console.log("hello world");
+        return 1;
     };
     return Startup;
 })();
